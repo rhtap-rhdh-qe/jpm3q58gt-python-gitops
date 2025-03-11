@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jpm3q58gt-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jpm3q58gt-python-gitops
